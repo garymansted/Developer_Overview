@@ -1,4 +1,4 @@
 # app_demos
 Some details of my apps! 
 
-![CCComunities Demo](/CCCommunitiesDemo.gif)
+<img src="/CCCommunitiesDemo.gif" width="250" height="250"/>
