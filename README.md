@@ -1,4 +1,4 @@
-# App Demos
-Some details of my apps! 
+# App Demos 
 
+<img src="/CCCommunitiesDemo.gif" width="225" height="451">
 <img src="/CCCommunitiesDemo.gif" width="225" height="451">
