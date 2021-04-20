@@ -24,7 +24,7 @@ UIKit
 
 JuiceBox was the first (2016) fuel price finder real-time application released in NSW Australia. 
 Built using scraping technologies to scrape data from the centralised fuel price server.
-This is the second iteration of the CCCommunities application.
+This is the second iteration of the CCCommunities application. [AppStore](http://github.com)
 ```
 Frameworks used include:
 Alamofire
