@@ -1,11 +1,13 @@
 # App Demos 
 ## Care Corp Communities
 
-<img align="right" width="225" height="451" src="/CCCommunitiesDemo.gif">
+<img align="left" width="225" height="451" src="/CCCommunitiesDemo.gif">
 
 This is the second iteration of the CCCommunities application.
 ```
-
+Frameworks used include:
+Alamofire
+UIKit
 ```
 
 ---
