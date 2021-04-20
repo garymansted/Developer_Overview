@@ -1,4 +1,6 @@
-# App Demos 
+# Developer Overview
+###### The following are jsut a small handful of applications that I have built during my time as an iOS Engineer.
+
 ## Care Corp Communities
 
 <p align="left">
