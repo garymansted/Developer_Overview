@@ -85,7 +85,7 @@ UIKit
 
 ## /Ping
 <p align="left">
-    <img src="/PingDemo.gif" width="225" height="451" title="Juicebox - Ping - Curated Food Maps App">
+    <img src="/PingDemo.gif" width="451" height="451" title="Juicebox - Ping - Curated Food Maps App">
 </p>
 
 Ping was the first (2016) fuel price finder real-time application released in NSW Australia. 
