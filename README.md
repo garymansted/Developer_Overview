@@ -10,8 +10,13 @@ Check out a small handful of applications that I have built during my time as an
 
 This is the second iteration of the CCCommunities application.
 ```
-Frameworks used include:
+Frameworks used in V1 include:
+UIKit
 Alamofire
+ParallaxHeader
+MKProgress
+Device
+Frameworks used in V2 include:
 UIKit
 ```
 
@@ -30,8 +35,10 @@ This is the second iteration of the CCCommunities application.<br/> <br/>
 <a href="https://apps.apple.com/us/app/juicebox-fuel/id1169797310?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1477958400&h=66265eca3db9e3888f929cd75d971969" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 ```
 Frameworks used include:
-Alamofire
 UIKit
+Kanna
+GoogleMaps
+BTNavigationDropdownMenu
 ```
 
 ---
@@ -47,7 +54,6 @@ Built using scraping technologies to scrape data from the centralised fuel price
 This is the second iteration of the CCCommunities application.
 ```
 Frameworks used include:
-Alamofire
 UIKit
 ```
 
@@ -78,8 +84,10 @@ BlueSky was a small app initially build in Swift 4 for demonstrating my iOS nati
 
 ```
 Frameworks used include:
-Alamofire
 UIKit
+Alamofire
+AlamofireImage
+GoogleMaps
 ```
 
 ---
@@ -95,8 +103,16 @@ Built using scraping technologies to scrape data from the centralised fuel price
 This is the second iteration of the CCCommunities application.
 ```
 Frameworks used include:
-Alamofire
 UIKit
+Firebase/Core
+FirebaseDatabase
+Firebase/Auth
+Firebase/Messaging
+Eureka
+ImageRow - Eureka addon
+Lightbox
+GoogleMaps
+Kanna
 ```
 
 ---
@@ -115,6 +131,30 @@ This is the second iteration of the CCCommunities application.
 Frameworks used include:
 Alamofire
 UIKit
+GoogleMaps
+Alamofire
 ```
 
 ---
+
+## Brewski
+<p align="left">
+    <img src="/assets/JuiceboxDemo.gif" width="225" height="451" title="Juicebox - NSW Fuel Finder App">
+    <img src="/assets/JuiceboxDemo.gif" width="225" height="451" title="Juicebox - NSW Fuel Finder App">
+</p> 
+
+Brewski was the first (2016) fuel price finder real-time application released in NSW Australia. 
+Built using scraping technologies to scrape data from the centralised fuel price server.
+This is the second iteration of the CCCommunities application.<br/> <br/>
+
+```
+Frameworks used include:
+UIKit
+Alamofire
+AlamofireImage
+RealmSwift
+ParallaxHeader
+```
+
+---
+
