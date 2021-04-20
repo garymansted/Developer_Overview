@@ -143,9 +143,17 @@ Alamofire
     <img src="/assets/JuiceboxDemo.gif" width="225" height="451" title="Juicebox - NSW Fuel Finder App">
 </p> 
 
-Brewski was the first (2016) fuel price finder real-time application released in NSW Australia. 
-Built using scraping technologies to scrape data from the centralised fuel price server.
-This is the second iteration of the CCCommunities application.<br/> <br/>
+Brewski was an app written in SWIFT 5 that targeting the latest iOS version -> 13.2.<br/>
+The brief is outlined below:
+##### Project Requirements:
+- Using the BreweryDB API, create an iOS application to list beers from the API.
+- The web application should be written in Swift using Xcode, targeting the latest version of the iOS SDK (13).
+- API docs: https://www.brewerydb.com/developers/docs
+- Sandbox URL: https://sandbox-api.brewerydb.com/v2/
+- Sandbox API key: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+- The user should be able to search the list of beers and see a paged list.
+- The user should be able to click on the beer for more information.
+To show a bit of flare I added a device shake gesture that spawned extra beer bubbles that slowly dissapated - resembelling a real beer!
 
 ```
 Frameworks used include:
