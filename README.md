@@ -1,6 +1,7 @@
 # Developer Overview     ## *page under construction* ##
 Check out a small handful of applications that I have built during my time as an iOS Engineer.<br/>
----
+
+
 ## Care Corp Communities
 
 <p align="left">
