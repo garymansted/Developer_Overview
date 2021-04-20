@@ -20,7 +20,7 @@ UIKit
 ## JuiceBox
 <p align="left">
     <img src="/JuiceboxDemo.gif" width="225" height="451" title="Juicebox - NSW Fuel Finder App">
-    <img href="https://apps.apple.com/us/app/juicebox-fuel/id1169797310?itscg=30200&amp;itsct=apps_box_appicon" width="170" height="170" title="Juicebox - NSW Fuel Finder App">
+    <a href="https://apps.apple.com/us/app/juicebox-fuel/id1169797310?itscg=30200&amp;itsct=apps_box_appicon" width="170" height="170" title="Juicebox - NSW Fuel Finder App"></a>
 </p> 
 
 JuiceBox was the first (2016) fuel price finder real-time application released in NSW Australia. 
