@@ -3,7 +3,7 @@
 
 <p align="left">
   <img src="/CCCommunitiesDemo.gif" width="225" height="451" title="Care Corp Communities">
-  <img src="/JuiceboxDemo.gif" width="225" height="451">
+  <img src="/JuiceboxDemo.gif" width="225" height="451" title="Juicebox - NSW Fuel Finder App">
 </p>
 
 
