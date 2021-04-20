@@ -143,8 +143,7 @@ Alamofire
     <img src="/assets/JuiceboxDemo.gif" width="225" height="451" title="Juicebox - NSW Fuel Finder App">
 </p> 
 
-Brewski was an app written in SWIFT 5 that targeting the latest iOS version -> 13.2.<br/>
-The brief is outlined below:
+Brewski was an app written in SWIFT 5 that targeting the latest iOS version -> 13.2. The brief is outlined below:
 ##### Project Requirements:
 - Using the BreweryDB API, create an iOS application to list beers from the API.
 - The web application should be written in Swift using Xcode, targeting the latest version of the iOS SDK (13).
