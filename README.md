@@ -1,7 +1,7 @@
 # App Demos 
 ## Care Corp Communities
 
-<img align="left" width="225" height="451" src="/CCCommunitiesDemo.gif">
+<img align="right" width="225" height="451" src="/CCCommunitiesDemo.gif">
 
 This is the second iteration of the CCCommunities application.
 ```
