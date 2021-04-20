@@ -83,7 +83,7 @@ UIKit
 ---
 
 
-## /Ping
+## Ping
 <p align="left">
     <img src="/PingDemo.gif" width="451" height="451" title="Juicebox - Ping - Curated Food Maps App">
 </p>
