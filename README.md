@@ -1,7 +1,11 @@
 # App Demos 
 ## Care Corp Communities
 
-<img align="left" width="225" height="451" src="/CCCommunitiesDemo.gif">
+<p align="left">
+  <img src="/CCCommunitiesDemo.gif" width="225" height="451" title="Care Corp Communities">
+  <img src="/JuiceboxDemo.gif" width="225" height="451" alt="Juicebox NSW Fuel Finder">
+</p>
+
 
 This is the second iteration of the CCCommunities application.
 ```
@@ -14,7 +18,10 @@ UIKit
 
 
 
-
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
 
 
 
