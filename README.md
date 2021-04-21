@@ -106,6 +106,7 @@ A user can spawn an infinite number of circles by tapping on the main view. The 
 ```
 Frameworks and third party librarys include:
 UIKit
+*URLSession* was used for network requests
 ```
 
 ---
