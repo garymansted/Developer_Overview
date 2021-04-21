@@ -22,12 +22,7 @@ The CCC app utilises the iOS auto layout feature, along with frame based layouts
 ```
 Frameworks used in V1 include:
 UIKit
-Alamofire
-ParallaxHeader
-MKProgress
 Device
-Frameworks used in V2 include:
-UIKit
 ```
 
 ## Care Corp Communities - V1
@@ -51,14 +46,15 @@ The *first version* of the CCCommunities application allowed community members t
 </p>
 
 ```
-Frameworks used in V1 include:
+Frameworks and third party librarys include:
 UIKit
 Alamofire
 ParallaxHeader
+TTSegmentedControl
+IQKeyboardManagerSwift
 MKProgress
 Device
-Frameworks used in V2 include:
-UIKit
+Koyomi
 ```
 
 ---
@@ -75,7 +71,7 @@ Built using scraping technologies to scrape data from the centralised fuel price
 This is the second iteration of the CCCommunities application.<br/> <br/>
 <a href="https://apps.apple.com/us/app/juicebox-fuel/id1169797310?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1477958400&h=66265eca3db9e3888f929cd75d971969" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 ```
-Frameworks used include:
+Frameworks include:
 UIKit
 Kanna
 GoogleMaps
@@ -94,7 +90,7 @@ Circles was the first (2016) fuel price finder real-time application released in
 Built using scraping technologies to scrape data from the centralised fuel price server.
 This is the second iteration of the CCCommunities application.
 ```
-Frameworks used include:
+Frameworks and third party librarys include:
 UIKit
 ```
 
@@ -124,7 +120,7 @@ BlueSky was a small app initially build in Swift 4 for demonstrating my iOS nati
 - Support landscape and portrait view together
 
 ```
-Frameworks used include:
+Frameworks and third party librarys include:
 UIKit
 Alamofire
 AlamofireImage
@@ -143,7 +139,7 @@ CyberStudios was the first (2016) fuel price finder real-time application releas
 Built using scraping technologies to scrape data from the centralised fuel price server.
 This is the second iteration of the CCCommunities application.
 ```
-Frameworks used include:
+Frameworks and third party librarys include:
 UIKit
 Firebase/Core
 FirebaseDatabase
@@ -169,7 +165,7 @@ Built using scraping technologies to scrape data from the centralised fuel price
 This is the second iteration of the CCCommunities application.
 [Ping](https://www.pingmethen.com/)
 ```
-Frameworks used include:
+Frameworks and third party librarys include:
 Alamofire
 UIKit
 GoogleMaps
@@ -196,7 +192,7 @@ Brewski was an app written in SWIFT 5 that targeting the latest iOS version -> 1
 To show a bit of flare I added a device shake gesture that spawned extra beer bubbles that slowly dissapated - resembelling a real beer!
 
 ```
-Frameworks used include:
+Frameworks and third party librarys include:
 UIKit
 Alamofire
 AlamofireImage
