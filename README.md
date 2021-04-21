@@ -108,7 +108,7 @@ BTNavigationDropdownMenu
 - A user can move a circle around the view by tap and dragging it. 
 - A user can pinch zoom to enlarge or shrink a circle. 
 - A user can skake the divice to remove all circles in the view.<br/>
-*No third party libraries have been used.*<br/>
+*No third party libraries have been used.*<br/><br/>
 <a href="https://github.com/garymansted/Circles"><img src="/assets/GitHubLogo_1.png" alt="GitHub Repository"></a>
  GitHub Repository
 ```
