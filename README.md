@@ -6,6 +6,15 @@ Check out a small handful of applications that I have built during my time as an
 
 <p align="left">
   <img src="/assets/CCCommunitiesDemo.gif" width="225" height="451" title="Care Corp Communities - Residents Help App">
+  
+  
+  
+  
+  
+  
+  
+  
+  
 </p>
 
 CareCorp Communities is an Owners Corporation Business based in Melbourne, Australia who specialise in elite management services.<br/>
