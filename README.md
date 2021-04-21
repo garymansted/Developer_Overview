@@ -64,7 +64,7 @@ Koyomi
     <img src="/assets/JuiceboxDemo.gif" width="225" height="451" title="Juicebox - NSW Fuel Finder App">
     <img src="/assets/JuiceBox_Image_0.png" width="225" height="400" title="Juicebox - NSW Fuel Finder App">
     <img src="/assets/JuiceBox_Image_1.png" width="225" height="400" title="Juicebox - NSW Fuel Finder App">
-    <img src="/assets/JuiceBox_Image_9.png" width="225" height="225" title="Juicebox - NSW Fuel Finder App">
+    <img src="/assets/JuiceBox_Image_9.png" width="225" height="400" title="Juicebox - NSW Fuel Finder App">
     <img src="/assets/JuiceBox_Image_2.png" width="225" height="400" title="Juicebox - NSW Fuel Finder App">
     <img src="/assets/JuiceBox_Image_3.png" width="225" height="400" title="Juicebox - NSW Fuel Finder App">
     <img src="/assets/JuiceBox_Image_4.png" width="225" height="400" title="Juicebox - NSW Fuel Finder App">
