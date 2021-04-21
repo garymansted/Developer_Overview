@@ -92,9 +92,9 @@ BTNavigationDropdownMenu
 ## Circles
 <p align="left">
     <img src="/assets/CirclesDemo.gif" width="225" height="451" title="Circles - Coding Challenge App">
-    <img src="/assets/Circles_Image_2.png" width="225" height="451" title="Circles - Coding Challenge App">
-    <img src="/assets/Circles_Image_3.png" width="225" height="451" title="Circles - Coding Challenge App">
-    <img src="/assets/Circles_Image_4.png" width="225" height="451" title="Circles - Coding Challenge App">
+    <img src="/assets/Circles_Image_2.png" width="225" height="487" title="Circles - Coding Challenge App">
+    <img src="/assets/Circles_Image_3.png" width="225" height="487" title="Circles - Coding Challenge App">
+    <img src="/assets/Circles_Image_4.png" width="225" height="487" title="Circles - Coding Challenge App">
 </p>
 
 Circles was the first (2016) fuel price finder real-time application released in NSW Australia. 
