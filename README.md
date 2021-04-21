@@ -29,7 +29,7 @@ Device
 Frameworks used in V2 include:
 UIKit
 ```
-<br/>
+
 ## Care Corp Communities - V1
 The *first version* of the CCCommunities application allowed community members to book the recreational facilities in their building and make appointments with their Building Manager. See below.
 
