@@ -192,6 +192,12 @@ Kanna
 ## Ping
 <p align="left">
     <img src="/assets/PingDemo.gif" width="451" height="451" title="Juicebox - Ping - Curated Food Maps App">
+    <img src="/assets/PingV3_Image_1.png" width="225" height="400" title="Care Corp Communities - Residents Help App">
+    <img src="/assets/PingV3_Image_2.png" width="225" height="400" title="Care Corp Communities - Residents Help App">
+    <img src="/assets/PingV3_Image_3.png" width="225" height="400" title="Care Corp Communities - Residents Help App">
+    <img src="/assets/PingV3_Image_4.png" width="225" height="400" title="Care Corp Communities - Residents Help App">
+    <img src="/assets/PingV3_Image_5.png" width="225" height="400" title="Care Corp Communities - Residents Help App">
+    <img src="/assets/PingV3_Image_6.png" width="225" height="400" title="Care Corp Communities - Residents Help App">
 </p>
 
 Ping was the first (2016) fuel price finder real-time application released in NSW Australia. 
