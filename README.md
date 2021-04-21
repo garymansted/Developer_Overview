@@ -163,7 +163,7 @@ GoogleMaps
 
 ## CyberStudios
 <p align="left">
-    <img src="/assets/CyberStudiosDemo.gif" width="225" height="451" title="CyberStudios - IoT Registry & Device Interaction App">
+    <img src="/assets/CyberStudiosDemo.gif" width="225" height="451" title="CyberStudios - IoT Device Registry & Control App">
 </p>
 
 **CyberStudios** was initally created for the registration and control of custom IoT devices. The IoT devices were capable of real-time, two-way data transmission via WiFi or celular connection. Firstly the device is registered (added to the users account), assigned to one of the formention connections and given a name for quick reference. Once registered the user could control their devices' via the main interface - switching on and off, setting device pararameters (delays ect) along with monitoring incomming data.<br/>
@@ -191,13 +191,13 @@ Kanna
 
 ## Ping
 <p align="left">
-    <img src="/assets/PingDemo.gif" width="451" height="451" title="Juicebox - Ping - Curated Food Maps App">
-    <img src="/assets/Ping_V3_Image_1.png" width="400" height="400" title="Care Corp Communities - Residents Help App">
-    <img src="/assets/Ping_V3_Image_2.png" width="225" height="400" title="Care Corp Communities - Residents Help App">
-    <img src="/assets/Ping_V3_Image_3.png" width="400" height="400" title="Care Corp Communities - Residents Help App">
-    <img src="/assets/Ping_V3_Image_4.png" width="400" height="400" title="Care Corp Communities - Residents Help App">
-    <img src="/assets/Ping_V3_Image_5.png" width="300" height="400" title="Care Corp Communities - Residents Help App">
-    <img src="/assets/Ping_V3_Image_6.png" width="300" height="400" title="Care Corp Communities - Residents Help App">
+    <img src="/assets/PingDemo.gif" width="451" height="451" title="Ping - Curated Food Maps App">
+    <img src="/assets/Ping_V3_Image_1.png" width="400" height="400" title="Ping - Curated Food Maps App">
+    <img src="/assets/Ping_V3_Image_2.png" width="225" height="400" title="Ping - Curated Food Maps App">
+    <img src="/assets/Ping_V3_Image_3.png" width="400" height="400" title="Ping - Curated Food Maps App">
+    <img src="/assets/Ping_V3_Image_4.png" width="400" height="400" title="Ping - Curated Food Maps App">
+    <img src="/assets/Ping_V3_Image_5.png" width="320" height="400" title="Ping - Curated Food Maps App">
+    <img src="/assets/Ping_V3_Image_6.png" width="320" height="400" title="Ping - Curated Food Maps App">
 </p>
 
 Ping was the first (2016) fuel price finder real-time application released in NSW Australia. 
