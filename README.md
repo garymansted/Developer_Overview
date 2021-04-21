@@ -6,7 +6,6 @@ Check out a small handful of applications that I have built during my time as an
 
 <p align="left">
   <img src="/assets/CCCommunitiesDemo.gif" width="225" height="451" title="Care Corp Communities - Residents Help App">
-  <img src="/assets/CCC_Image_V2_0.png" width="225" height="400" title="Care Corp Communities - Residents Help App">
   <img src="/assets/CCC_Image_V2_1.png" width="225" height="400" title="Care Corp Communities - Residents Help App">
   <img src="/assets/CCC_Image_V2_2.png" width="225" height="400" title="Care Corp Communities - Residents Help App">
   <img src="/assets/CCC_Image_V2_3.png" width="225" height="400" title="Care Corp Communities - Residents Help App">
