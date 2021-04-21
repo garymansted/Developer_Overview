@@ -119,7 +119,7 @@ URLSession was used for network requests
     <img src="/assets/BlueSkyDemo.gif" width="225" height="451" title="BlueSky - Coding Challenge App">
 </p>
 
-BlueSky was a small app initially build in Swift 4 for demonstrating my iOS native app building skills, ability to write clean and maintainable code along with testing out my attention to details. The brief is outlined below:
+**BlueSky** was a small app initially build in Swift 4 for demonstrating my iOS native app building skills, ability to write clean and maintainable code along with testing out my attention to detail. The brief is outlined below:
 ##### Requirements:
 - Use a UITableViewController to display weather information of Sydney, Melbourne and Brisbane as start.
 - Provide a way to add more cities using another modal view controller which includes a search functionality to find a city by name or location.
