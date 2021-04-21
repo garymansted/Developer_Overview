@@ -13,6 +13,7 @@ The CareCorp Communities app conveys relevant and important information to its c
 The first version of the CCCommunities application allowed community members to book the recreational facilities in their building and make appointments with their Building Manager. See below.
 
 <p align="left">
+  <img src="/assets/CCC_Image_0.png" width="360" height="360" title="Care Corp Communities - Residents Help App">
   <img src="/assets/CCC_Image_1.png" width="180" height="360" title="Care Corp Communities - Residents Help App">
   <img src="/assets/CCC_Image_2.png" width="180" height="360" title="Care Corp Communities - Residents Help App">
   <img src="/assets/CCC_Image_3.png" width="180" height="360" title="Care Corp Communities - Residents Help App">
