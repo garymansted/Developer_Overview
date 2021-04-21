@@ -71,7 +71,7 @@ Koyomi
     <img src="/assets/JuiceBox_Image_6.png" width="225" height="400" title="Juicebox - NSW Fuel Finder App">
     <img src="/assets/JuiceBox_Image_7.png" width="225" height="400" title="Juicebox - NSW Fuel Finder App">
     <img src="/assets/JuiceBox_Image_8.png" width="225" height="400" title="Juicebox - NSW Fuel Finder App">
-    <img src="/assets/JuiceBox_Image_9.png" width="400" height="400" title="Juicebox - NSW Fuel Finder App">
+    <img src="/assets/JuiceBox_Image_9.png" width="430" height="400" title="Juicebox - NSW Fuel Finder App">
 </p> 
 
 JuiceBox was the first (2016) fuel price finder real-time application released in NSW Australia. 
