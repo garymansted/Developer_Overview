@@ -8,7 +8,10 @@ Check out a small handful of applications that I have built during my time as an
   <img src="/assets/CCCommunitiesDemo.gif" width="225" height="451" title="Care Corp Communities - Residents Help App">
 </p>
 
-This is the second iteration of the CCCommunities application.
+CareCorp Communities is an Owners Corporation Business based in Melbourne, Australia who specialise in elite management services.<br/>
+The CareCorp Communities app conveys relevant and important information to its community members (residents). This, the second version also allows community members, along with potential new clients, the ability to directly contact the various persons who are responsible for all building related enquiries.<br/>
+The first version of the CCCommunities application allowed community members to book the recreational facilities in their building and make appointments with their Building Manager.
+
 ```
 Frameworks used in V1 include:
 UIKit
