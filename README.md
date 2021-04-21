@@ -146,7 +146,9 @@ The brief is outlined below:
 - Try to use table view or collection view to display details.
 - In the “Detail view”, implement animations to enhance the user experience.
 - Support all different dimensions of the devices.
-- Support landscape and portrait view together
+- Support landscape and portrait view together<br/><br/>
+<a href="https://github.com/garymansted/BlueSky"><img src="/assets/GitHubLogo_1.png" alt="GitHub Repository"></a>
+ GitHub Repository
 
 ```
 Frameworks and third party librarys include:
