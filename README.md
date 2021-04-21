@@ -76,7 +76,7 @@ Koyomi
 </p> 
 
 JuiceBox was the first (2016) fuel price finder real-time application released in NSW Australia. 
-Built using scraping technologies to scrape data from the centralised fuel price server. Users have the ability to search by fuel type and distance. JuiceBox leverages applicaition deep-linking so the user can use the native navigation app getting them directions to a service station of their choice.<br/> <br/>
+Built using scraping technologies to scrape data from the centralised fuel price server. Users have the ability to search by fuel type and distance. Leveraging applicaition deep-linking, JuiceBox also provides directions to user selected service station, connecting them with the native navigation app.<br/> <br/>
 <a href="https://apps.apple.com/us/app/juicebox-fuel/id1169797310?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1477958400&h=66265eca3db9e3888f929cd75d971969" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 ```
 Frameworks include:
