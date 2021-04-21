@@ -124,6 +124,17 @@ URLSession was used for network requests
 ## BlueSky
 <p align="left">
     <img src="/assets/BlueSkyDemo.gif" width="225" height="451" title="BlueSky - Coding Challenge App">
+    <img src="/assets/BlueSky_Image_1.png" width="169" height="365" title="Circles - Coding Challenge App">
+    <img src="/assets/BlueSky_Image_2.png" width="169" height="365" title="Circles - Coding Challenge App">
+    <img src="/assets/BlueSky_Image_3.png" width="169" height="365" title="Circles - Coding Challenge App">
+    <img src="/assets/BlueSky_Image_4.png" width="169" height="365" title="Circles - Coding Challenge App">
+    <img src="/assets/BlueSky_Image_5.png" width="169" height="365" title="Circles - Coding Challenge App">
+    <img src="/assets/BlueSky_Image_6.png" width="169" height="365" title="Circles - Coding Challenge App">
+    <img src="/assets/BlueSky_Image_7.png" width="169" height="365" title="Circles - Coding Challenge App">
+    <img src="/assets/BlueSky_Image_8.png" width="169" height="365" title="Circles - Coding Challenge App">
+    <img src="/assets/BlueSky_Image_9.png" width="169" height="365" title="Circles - Coding Challenge App">
+    <img src="/assets/BlueSky_Image_10.png" width="169" height="365" title="Circles - Coding Challenge App">
+    <img src="/assets/BlueSky_Image_11.png" width="169" height="365" title="Circles - Coding Challenge App">
 </p>
 
 **BlueSky** was a small app initially build in Swift 4 for demonstrating my iOS native app building skills, ability to write clean and maintainable code along with testing out my attention to detail. *Updated to Swift 5*<br/>
