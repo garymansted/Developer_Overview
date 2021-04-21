@@ -6,14 +6,14 @@ Check out a small handful of applications that I have built during my time as an
 
 <p align="left">
   <img src="/assets/CCCommunitiesDemo.gif" width="225" height="451" title="Care Corp Communities - Residents Help App">
-  <img src="/assets/CCC_Image_V2_0.png" width="180" height="360" title="Care Corp Communities - Residents Help App">
-  <img src="/assets/CCC_Image_V2_1.png" width="180" height="360" title="Care Corp Communities - Residents Help App">
-  <img src="/assets/CCC_Image_V2_2.png" width="180" height="360" title="Care Corp Communities - Residents Help App">
-  <img src="/assets/CCC_Image_V2_3.png" width="180" height="360" title="Care Corp Communities - Residents Help App">
-  <img src="/assets/CCC_Image_V2_4.png" width="180" height="360" title="Care Corp Communities - Residents Help App">
-  <img src="/assets/CCC_Image_V2_5.png" width="180" height="360" title="Care Corp Communities - Residents Help App">
-  <img src="/assets/CCC_Image_V2_6.png" width="180" height="360" title="Care Corp Communities - Residents Help App">
-  <img src="/assets/CCC_Image_V2_7.png" width="180" height="360" title="Care Corp Communities - Residents Help App">
+  <img src="/assets/CCC_Image_V2_0.png" width="186" height="331" title="Care Corp Communities - Residents Help App">
+  <img src="/assets/CCC_Image_V2_1.png" width="186" height="331" title="Care Corp Communities - Residents Help App">
+  <img src="/assets/CCC_Image_V2_2.png" width="186" height="331" title="Care Corp Communities - Residents Help App">
+  <img src="/assets/CCC_Image_V2_3.png" width="186" height="331" title="Care Corp Communities - Residents Help App">
+  <img src="/assets/CCC_Image_V2_4.png" width="186" height="331" title="Care Corp Communities - Residents Help App">
+  <img src="/assets/CCC_Image_V2_5.png" width="186" height="331" title="Care Corp Communities - Residents Help App">
+  <img src="/assets/CCC_Image_V2_6.png" width="186" height="331" title="Care Corp Communities - Residents Help App">
+  <img src="/assets/CCC_Image_V2_7.png" width="186" height="331" title="Care Corp Communities - Residents Help App">
 </p>
 
 CareCorp Communities is an Owners Corporation Business based in Melbourne, Australia who specialise in elite management services.<br/>
