@@ -107,7 +107,7 @@ BTNavigationDropdownMenu
 - The circles are filled with random colors that are obtained by a http request from: www.colourlovers.com/api/colors/random?format=json. If there is no network connection available or the request fails a random color is generated in code. A user can double tap a circle to change its color - color obtained by the above mentioned random color generator. 
 - A user can move a circle around the view by tap and dragging it. 
 - A user can pinch zoom to enlarge or shrink a circle. 
-- A user can skake the divice to remove all circles in the view. 
+- A user can skake the divice to remove all circles in the view.<br/>
 *No third party libraries have been used.*<br/>
 <a href="https://github.com/garymansted/Circles"><img src="/assets/GitHubLogo_1.png" alt="GitHub Repository"></a>
  GitHub Repository
