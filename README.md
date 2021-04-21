@@ -200,9 +200,15 @@ Kanna
     <img src="/assets/Ping_V3_Image_6.png" width="320" height="400" title="Ping - Curated Food Maps App">
 </p>
 
-Ping was the first (2016) fuel price finder real-time application released in NSW Australia. 
-Built using scraping technologies to scrape data from the centralised fuel price server.
-This is the second iteration of the CCCommunities application.
+**Ping** was the brain child of good friend Bennet Dalton. First released (seven years ago) as a way to find your friends when your 'out and about' and wanting to connect. Users would send and receive *'Pings'* 
+
+Using push notifications  After a couple of successful years in the market Apple released their own version called 'Find My Friends' - which was a defining pivot point towards what it is now: Foodie-curated cafes, restaurants and bars. 
+
+
+Peruse curated maps from our favourite foodies by Vegan, Burgers, Rooftops.
+Get the latest in Speciality Coffee, cafe openings, new eateries.
+
+
 [Ping](https://www.pingmethen.com/)
 ```
 Frameworks and third party librarys include:
