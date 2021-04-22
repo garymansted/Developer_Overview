@@ -213,9 +213,13 @@ Alamofire
 
 ## Brewski
 <p align="left">
-    <img src="/assets/JuiceboxDemo.gif" width="225" height="451" title="Juicebox - NSW Fuel Finder App">
-    <img src="/assets/JuiceboxDemo.gif" width="225" height="451" title="Juicebox - NSW Fuel Finder App">
-</p> 
+  <img src="/assets/BrewskiDemo.gif" width="225" height="451" title="Brewski - Beer & Brewery App">
+  <img src="/assets/Brewski_Image_1.png" width="225" height="400" title="Brewski - Beer & Brewery App">
+  <img src="/assets/Brewski_Image_2.png" width="225" height="400" title="Brewski - Beer & Brewery App">
+  <img src="/assets/Brewski_Image_3.png" width="225" height="400" title="Brewski - Beer & Brewery App">
+  <img src="/assets/Brewski_Image_4.png" width="225" height="400" title="Brewski - Beer & Brewery App">
+</p>
+
 
 Brewski was an app written in SWIFT 5 that targeting the latest iOS version -> 13.2. It was built for a coding task.br/>
 The brief is outlined below:
