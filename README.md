@@ -246,13 +246,13 @@ ParallaxHeader
 ## iVocab
 <p align="left">
     <img src="/assets/iVocabDemo.gif" width="450" height="322" title="iVocab - Vocal Assistance App">
-    <img src="/assets/iVocab_Image_1.png" width="393" height="273" title="iVocab - Vocal Assistance App">
-    <img src="/assets/iVocab_Image_1.png" width="393" height="273" title="iVocab - Vocal Assistance App">
-    <img src="/assets/iVocab_Image_1.png" width="393" height="273" title="iVocab - Vocal Assistance Appp">
-    <img src="/assets/iVocab_Image_1.png" width="393" height="273" title="iVocab - Vocal Assistance App">
-    <img src="/assets/iVocab_Image_1.png" width="393" height="273" title="iVocab - Vocal Assistance App">
-    <img src="/assets/iVocab_Image_1.png" width="393" height="273" title="iVocab - Vocal Assistance App">
-    <img src="/assets/iVocab_Image_1.png" width="393" height="273" title="iVocab - Vocal Assistance App">
+    <img src="/assets/iVocab_Image_1.png" width="429" height="298" title="iVocab - Vocal Assistance App">
+    <img src="/assets/iVocab_Image_2.png" width="429" height="298" title="iVocab - Vocal Assistance App">
+    <img src="/assets/iVocab_Image_3.png" width="429" height="298" title="iVocab - Vocal Assistance Appp">
+    <img src="/assets/iVocab_Image_4.png" width="429" height="298" title="iVocab - Vocal Assistance App">
+    <img src="/assets/iVocab_Image_1.png" width="429" height="298" title="iVocab - Vocal Assistance App">
+    <img src="/assets/iVocab_Image_1.png" width="429" height="298" title="iVocab - Vocal Assistance App">
+    <img src="/assets/iVocab_Image_1.png" width="429" height="298" title="iVocab - Vocal Assistance App">
 </p> 
 
 **iVocab** is an application made to aid nonverbal children a way to communicate effectivly. With a low *learning curve*  
