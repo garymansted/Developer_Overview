@@ -266,9 +266,7 @@ Utilising Google's Cloud Platform's (GCP) 'text to speach' the app speaks for th
 ```
 Frameworks include:
 UIKit
-Kanna
-GoogleMaps
-BTNavigationDropdownMenu
+
 ```
 
 ---
