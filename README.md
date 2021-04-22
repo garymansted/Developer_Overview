@@ -245,7 +245,7 @@ ParallaxHeader
 
 ## iVocab
 <p align="left">
-    <img src="/assets/iVocabDemo.gif" width="398" height="284" title="iVocab - Vocal Assistance App">
+    <img src="/assets/iVocabDemo.gif" width="450" height="322" title="iVocab - Vocal Assistance App">
     <img src="/assets/iVocab_Image_1.png" width="225" height="400" title="iVocab - Vocal Assistance App">
     <img src="/assets/JuiceBox_Image_10.png" width="225" height="400" title="iVocab - Vocal Assistance App">
     <img src="/assets/JuiceBox_Image_9.png" width="225" height="225" title="iVocab - Vocal Assistance Appp">
