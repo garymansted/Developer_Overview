@@ -245,7 +245,7 @@ ParallaxHeader
 
 ## iVocab
 <p align="left">
-    <img src="/assets/JuiceboxDemo.gif" width="225" height="451" title="iVocab - NSW Fuel Finder App">
+    <img src="/assets/iVocabDemo.gif" width="225" height="451" title="iVocab - NSW Fuel Finder App">
     <img src="/assets/JuiceBox_Image_0.png" width="225" height="400" title="iVocab - NSW Fuel Finder App">
     <img src="/assets/JuiceBox_Image_10.png" width="225" height="400" title="iVocab - NSW Fuel Finder App">
     <img src="/assets/JuiceBox_Image_9.png" width="225" height="225" title="iVocab - NSW Fuel Finder App">
