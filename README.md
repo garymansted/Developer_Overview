@@ -250,9 +250,9 @@ ParallaxHeader
     <img src="/assets/iVocab_Image_2.png" width="429" height="298" title="iVocab - Vocal Assistance App">
     <img src="/assets/iVocab_Image_3.png" width="429" height="298" title="iVocab - Vocal Assistance Appp">
     <img src="/assets/iVocab_Image_4.png" width="429" height="298" title="iVocab - Vocal Assistance App">
-    <img src="/assets/iVocab_Image_1.png" width="429" height="298" title="iVocab - Vocal Assistance App">
-    <img src="/assets/iVocab_Image_1.png" width="429" height="298" title="iVocab - Vocal Assistance App">
-    <img src="/assets/iVocab_Image_1.png" width="429" height="298" title="iVocab - Vocal Assistance App">
+    <img src="/assets/iVocab_Image_5.png" width="429" height="298" title="iVocab - Vocal Assistance App">
+    <img src="/assets/iVocab_Image_11.png" width="429" height="298" title="iVocab - Vocal Assistance App">
+    <img src="/assets/iVocab_Image_12.png" width="429" height="298" title="iVocab - Vocal Assistance App">
 </p> 
 
 **iVocab** is an application made to aid nonverbal children a way to communicate effectivly. With a low *learning curve*  
