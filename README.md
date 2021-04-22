@@ -246,17 +246,13 @@ ParallaxHeader
 ## iVocab
 <p align="left">
     <img src="/assets/iVocabDemo.gif" width="450" height="322" title="iVocab - Vocal Assistance App">
-    <img src="/assets/iVocab_Image_1.png" width="225" height="400" title="iVocab - Vocal Assistance App">
-    <img src="/assets/JuiceBox_Image_10.png" width="225" height="400" title="iVocab - Vocal Assistance App">
-    <img src="/assets/JuiceBox_Image_9.png" width="225" height="225" title="iVocab - Vocal Assistance Appp">
-    <img src="/assets/JuiceBox_Image_1.png" width="225" height="400" title="iVocab - Vocal Assistance App">
-    <img src="/assets/JuiceBox_Image_2.png" width="225" height="400" title="iVocab - Vocal Assistance App">
-    <img src="/assets/JuiceBox_Image_3.png" width="225" height="400" title="iVocab - Vocal Assistance App">
-    <img src="/assets/JuiceBox_Image_4.png" width="225" height="400" title="iVocab - Vocal Assistance App">
-    <img src="/assets/JuiceBox_Image_5.png" width="225" height="400" title="iVocab - Vocal Assistance App">
-    <img src="/assets/JuiceBox_Image_6.png" width="225" height="400" title="iVocab - Vocal Assistance App">
-    <img src="/assets/JuiceBox_Image_6.png" width="225" height="400" title="iVocab - Vocal Assistance App">
-    <img src="/assets/JuiceBox_Image_8.png" width="225" height="400" title="iVocab - Vocal Assistance App">
+    <img src="/assets/iVocab_Image_1.png" width="393" height="273" title="iVocab - Vocal Assistance App">
+    <img src="/assets/iVocab_Image_1.png" width="393" height="273" title="iVocab - Vocal Assistance App">
+    <img src="/assets/iVocab_Image_1.png" width="393" height="273" title="iVocab - Vocal Assistance Appp">
+    <img src="/assets/iVocab_Image_1.png" width="393" height="273" title="iVocab - Vocal Assistance App">
+    <img src="/assets/iVocab_Image_1.png" width="393" height="273" title="iVocab - Vocal Assistance App">
+    <img src="/assets/iVocab_Image_1.png" width="393" height="273" title="iVocab - Vocal Assistance App">
+    <img src="/assets/iVocab_Image_1.png" width="393" height="273" title="iVocab - Vocal Assistance App">
 </p> 
 
 **iVocab** is an application made to aid nonverbal children a way to communicate effectivly. With a low *learning curve*  
