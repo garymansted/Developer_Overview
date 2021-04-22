@@ -215,7 +215,6 @@ Alamofire
 <p align="left">
   <img src="/assets/BrewskiDemo.gif" width="225" height="451" title="Brewski - Beer & Brewery App">
   <img src="/assets/Brewski_Image_1.png" width="225" height="400" title="Brewski - Beer & Brewery App">
-  <img src="/assets/Brewski_Image_2.png" width="225" height="400" title="Brewski - Beer & Brewery App">
   <img src="/assets/Brewski_Image_3.png" width="225" height="400" title="Brewski - Beer & Brewery App">
   <img src="/assets/Brewski_Image_4.png" width="225" height="400" title="Brewski - Beer & Brewery App">
 </p>
