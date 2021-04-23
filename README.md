@@ -255,7 +255,7 @@ ParallaxHeader
     <img src="/assets/iVocab_Image_12.png" width="429" height="298" title="iVocab - Vocal Assistance App">
 </p> 
 
-**iVocab** is an application made to aid nonverbal children a way to communicate effectivly. With a low *learning curve*  
+**iVocab** is an application made to aid nonverbal children a way to communicate effectivly. Designed with the lowest possible *learning curve*, iVocab mimics Apple's iOS home user interface. 
 
 Utilising Google's Cloud Platform's (GCP) 'text to speach' the app speaks for the child ........ <br/> <br/>
 
