@@ -262,6 +262,20 @@ Utilising Google's Cloud Platform's (GCP) 'text to speach' the app speaks for th
 ```
 Frameworks include:
 UIKit
+SwiftySound
+Alamofire
+AlamofireImage
+ReachabilitySwift
+Lightbox
+RealmSwift
+Firebase/Core
+FirebaseDatabase
+Firebase/Auth
+Firebase/Storage
+SCLAlertView
+JJFloatingActionButton
+Hover
+Kingfisher
 
 ```
 
