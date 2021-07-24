@@ -257,7 +257,7 @@ ParallaxHeader
 
 **iVocab** is an application made as an aid for nonverbal children providing them with a way to communicate effectivly. Designed with the lowest possible *learning curve*, iVocab mimics Apple's iOS home user interface - right down to the *user changable* parallax wallpaper. 
 
-Utilising Google's Cloud Platform's (GCP) 'text to speach' the app speaks for the child ........ <br/> <br/>
+Utilising Google's Cloud Platform's (GCP) 'text to speach' the app speaks for the child who has .... <br/> <br/>
 
 ```
 Frameworks include:
