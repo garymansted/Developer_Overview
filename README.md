@@ -285,7 +285,7 @@ Kingfisher
 
 
 
-[![Freebees Apple Submission Video] width="225" height="451" (https://img.youtube.com/vi/dgFergGQofk/0.jpg)](https://www.youtube.com/watch?v=dgFergGQofk)
+[![Freebees Apple Submission Video](https://img.youtube.com/vi/dgFergGQofk/0.jpg)](https://www.youtube.com/watch?v=dgFergGQofk)
 
 
 
