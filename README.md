@@ -20,7 +20,7 @@ The CareCorp Communities app conveys relevant and important information to its c
 The CCC app utilises the iOS auto layout feature, along with frame based layouts, to dynamically scale and constrain the UI for all iOS devices currently availble.<br/> 
 
 ```
-Frameworks used in V1 include:
+Frameworks used in V2 include:
 UIKit
 Device
 ```
