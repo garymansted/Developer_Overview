@@ -283,7 +283,12 @@ Kingfisher
 
 ## Freebees
 
+<p align="left">
+  <img src="/assets/Freebees_Image_1.png" width="225" height="400" title="Care Corp Communities - Residents Help App">
+</p>
 
+**Freebees** TODO<br/>
+The Freebees app ...TODO
 
 [![Freebees Apple Submission Video](https://img.youtube.com/vi/dgFergGQofk/0.jpg)](https://www.youtube.com/watch?v=dgFergGQofk)
 
