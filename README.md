@@ -291,7 +291,7 @@ Kingfisher
 </p> 
 
 **Freebees** Augmented reality, Core Bluetooth,  TODO<br/>
-The Freebees app ...TODO
+The Freebees :bee: app ...TODO
 <br/> 
 
 ```
