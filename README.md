@@ -285,8 +285,12 @@ Kingfisher
 
 <p align="left">
   <img src="/assets/Freebees_Image_1.png" width="360" height="360" title="Freebees - Augmented App">
+</p>
+
+<p align="right">
   [![Freebees Apple Submission Video](https://img.youtube.com/vi/dgFergGQofk/0.jpg)](https://www.youtube.com/watch?v=dgFergGQofk)
 </p>
+  
 
 **Freebees** Augmented reality TODO<br/>
 The Freebees app ...TODO
