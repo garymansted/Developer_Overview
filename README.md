@@ -285,12 +285,12 @@ Kingfisher
 
 <p align="left">
   <img src="/assets/Freebees_Image_1.png" width="360" height="360" title="Freebees - Augmented App">
-</p>
-<p align="right">
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=dgFergGQofk
-  " target="_blank"><img src="http://img.youtube.com/vi/dgFergGQofk/0.jpg" 
-  alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
- </p> 
+
+  <p align="right">
+    <a href="http://www.youtube.com/watch?feature=player_embedded&v=dgFergGQofk
+    " target="_blank"><img src="http://img.youtube.com/vi/dgFergGQofk/0.jpg" 
+    alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+</p> 
 
 **Freebees** Augmented reality TODO<br/>
 The Freebees app ...TODO
