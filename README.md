@@ -225,7 +225,7 @@ The brief is outlined below:
 ##### Project Requirements:
 - Using the BreweryDB API, create an iOS application to list beers from the API.
 - The web application should be written in Swift using Xcode, targeting the latest version of the iOS SDK (13).
-- API docs: https://www.brewerydb.com/developers/docs
+- API docs: https://www.brewerydb.com/developers/docs ~ has since been retired
 - Sandbox URL: https://sandbox-api.brewerydb.com/v2/
 - Sandbox API key: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 - The user should be able to search the list of beers and see a paged list.
