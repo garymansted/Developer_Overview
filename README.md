@@ -285,11 +285,11 @@ Kingfisher
 
 <p align="left">
   <img src="/assets/Freebees_Image_1.png" width="240" height="240" title="Freebees - Augmented App">
+    AppStore Submission Video
+  ```
     <a href="http://www.youtube.com/watch?feature=player_embedded&v=dgFergGQofk
     " target="_blank"><img src="http://img.youtube.com/vi/dgFergGQofk/0.jpg" 
     alt="Freebees AppStore Submission Video" width="320" height="240" border="80" /></a>
-    AppStore Submission Video
-    ```
 </p> 
 
 **Freebees** Augmented reality, Core Bluetooth,  TODO<br/>
