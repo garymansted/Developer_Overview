@@ -292,10 +292,15 @@ Kingfisher
     alt="Freebees AppStore Submission Video" width="240" height="180" border="10" /></a>
 </p> 
 
-**Freebees** Augmented reality TODO<br/>
+**Freebees** Augmented reality, Core Bluetooth,  TODO<br/>
 The Freebees app ...TODO
+<br/> 
 
-
+```
+Frameworks used include:
+UIKit
+Core Bluetooth
+```
 
 
 
