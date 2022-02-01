@@ -40,7 +40,6 @@ The *first version* of the CCCommunities application allowed community members t
   <img src="/assets/CCC_Image_8.png" width="170" height="360" title="Care Corp Communities - Residents Help App">
   <img src="/assets/CCC_Image_9.png" width="170" height="360" title="Care Corp Communities - Residents Help App">
   <img src="/assets/CCC_Image_10.png" width="170" height="360" title="Care Corp Communities - Residents Help App">
-  <img src="/assets/CCC_Image_11.png" width="170" height="360" title="Care Corp Communities - Residents Help App">
   <img src="/assets/CCC_Image_12.png" width="170" height="360" title="Care Corp Communities - Residents Help App">
   <img src="/assets/CCC_Image_13.png" width="170" height="360" title="Care Corp Communities - Residents Help App">
 </p>
