@@ -68,8 +68,8 @@ MUMR - Make Up My Room was built as a proof of concept IoT application to allow 
     alt="MUMR TestFlight Submission Video" width="320" height="240" border="10" /></a>
     * TestFlight Submission Video
   
-  <a href="https://makeupmyroom.com"><img src="/assets/GitHubLogo_1.png" alt="GitHub Repository"></a>
- Released Product Website
+  <a href="https://makeupmyroom.com"><img src="/assets/MUMR_Image_2.png" alt="MUMR - Make Up My Room"></a>
+ Released Product Link
   
 </p> 
 
