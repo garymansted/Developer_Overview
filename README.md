@@ -66,6 +66,7 @@ MUMR - Make Up My Room was built as a proof of concept IoT application to allow 
     <a href="http://www.youtube.com/watch?feature=player_embedded&v=2b2lLZWRrmQ
     " target="_blank"><img src="http://img.youtube.com/vi/2b2lLZWRrmQ/0.jpg" 
     alt="MUMR TestFlight Submission Video" width="320" height="240" border="10" /></a>
+    * TestFlight Submission Video
 </p> 
 
 ```
