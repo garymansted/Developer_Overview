@@ -332,7 +332,7 @@ Core Bluetooth
     <a href="http://www.youtube.com/watch?feature=player_embedded&v=2b2lLZWRrmQ
     " target="_blank"><img src="http://img.youtube.com/vi/2b2lLZWRrmQ/0.jpg" 
     alt="MyFreebees TestFlight Submission Video" width="320" height="240" border="10" /></a>
-    * AppStore Submission Video
+    * TestFlight Submission Video
 </p> 
 
 **MyFreebees** Merchant Portal, Core Bluetooth,  TODO<br/>
