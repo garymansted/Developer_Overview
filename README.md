@@ -169,6 +169,10 @@ URLSession was used for network requests
 
 
 ## BlueSky
+
+<a href="https://github.com/garymansted/BlueSky_APP"><img src="/assets/BlueSky_Image_10.png" width="169" height="365" title="BlueSky - Code Challenge App"></a>
+
+
 <p align="left">
     <img src="/assets/BlueSkyDemo.gif" width="225" height="451" title="BlueSky - Coding Challenge App">
     <img src="/assets/BlueSky_Image_3.png" width="169" height="365" title="BlueSky - Coding Challenge App">
@@ -209,6 +213,11 @@ GoogleMaps
 
 
 ## CyberStudios
+
+
+<a href="https://github.com/garymansted/CyberStudios_APP"><img src="/assets/CyberStudios_App_Icon.png" width="240" height="240" title="CyberStudios - IoT Device Registry App"></a>
+
+
 <p align="left">
     <img src="/assets/CyberStudiosDemo.gif" width="225" height="451" title="CyberStudios - IoT Device Registry & Control App">
 </p>
@@ -237,6 +246,10 @@ Kanna
 
 
 ## Ping
+
+<a href="https://github.com/garymansted/Ping_APP"><img src="/assets/CyberStudios_App_Icon.png" width="240" height="240" title="Ping - Foodie Curated App"></a>
+
+
 <p align="left">
     <img src="/assets/PingDemo.gif" width="451" height="451" title="Ping - Curated Food Maps App">
     <img src="/assets/Ping_V3_Image_1.png" width="400" height="400" title="Ping - Curated Food Maps App">
