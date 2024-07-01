@@ -307,9 +307,9 @@ ParallaxHeader
 
 ---
 
-## iVocab
+## iVocab V1
 
-<a href="https://github.com/garymansted/iVocab-V1_APP"><img src="/assets/Brewski_Image_1.png" width="225" height="400" title="Brewski - Beer and Brewery App"></a>
+<a href="https://github.com/garymansted/iVocab-V1_APP"><img src="/assets/iVocab_Image_12.png" width="429" height="298" title="iVocab-V1 - Vocal Assitive App"></a>
 
 <p align="left">
     <img src="/assets/iVocabDemo.gif" width="450" height="322" title="iVocab - Vocal Assistance App">
@@ -348,7 +348,17 @@ Kingfisher
 
 ---
 
+## iVocab V2
+
+<a href="https://github.com/garymansted/iVocab-V2_APP"><img src="/assets/iVocab_Image_12.png" width="429" height="298" title="iVocab-V2 - Vocal Assitive App"></a>
+
+
+---
+
 ## Freebees
+
+<a href="https://github.com/garymansted/Freebees_APP"><img src="/assets/Freebees_Image_1.png" width="240" height="240" title="Freebees - Augmented Reality Promotions App"></a>
+
 
 <p align="left">
   <img src="/assets/Freebees_Image_1.png" width="240" height="240" title="Freebees - Augmented App">
@@ -358,7 +368,7 @@ Kingfisher
     * AppStore Submission Video
 </p> 
 
-**Freebees** Augmented reality, Core Bluetooth,  TODO<br/>
+**Freebees** Augmented reality, Core Bluetooth, Promotions, TODO<br/>
 The Freebees :bee: app ...TODO .
 <br/> 
 
