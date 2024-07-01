@@ -75,7 +75,7 @@ MUMR - Make Up My Room was built as a proof of concept IoT application to allow 
 
 <a href="https://github.com/garymansted/Brewski_APP"><img src="/assets/Brewski_Image_1.png" width="225" height="400" title="Brewski - Beer and Brewery App"></a>
 
-Brewski was an app written in SWIFT 5 that targeting the latest iOS version -> 13.2. It was built for a coding task.br/>
+**Brewski** was an app written in SWIFT 5 that targeting the latest iOS version -> 13.2. It was built for a coding task.br/>
 
 ---
 
@@ -83,40 +83,7 @@ Brewski was an app written in SWIFT 5 that targeting the latest iOS version -> 1
 
 <a href="https://github.com/garymansted/iVocab-V1_APP"><img src="/assets/iVocab_Image_12.png" width="429" height="298" title="iVocab-V1 - Vocal Assitive App"></a>
 
-<p align="left">
-    <img src="/assets/iVocabDemo.gif" width="450" height="322" title="iVocab - Vocal Assistance App">
-    <img src="/assets/iVocab_Image_1.png" width="429" height="298" title="iVocab - Vocal Assistance App">
-    <img src="/assets/iVocab_Image_2.png" width="429" height="298" title="iVocab - Vocal Assistance App">
-    <img src="/assets/iVocab_Image_3.png" width="429" height="298" title="iVocab - Vocal Assistance Appp">
-    <img src="/assets/iVocab_Image_4.png" width="429" height="298" title="iVocab - Vocal Assistance App">
-    <img src="/assets/iVocab_Image_5.png" width="429" height="298" title="iVocab - Vocal Assistance App">
-    <img src="/assets/iVocab_Image_11.png" width="429" height="298" title="iVocab - Vocal Assistance App">
-    <img src="/assets/iVocab_Image_12.png" width="429" height="298" title="iVocab - Vocal Assistance App">
-</p> 
-
-**iVocab** is an application made as an aid for nonverbal children providing them with a way to communicate effectivly. Designed with the lowest possible *learning curve*, iVocab mimics Apple's iOS home user interface - right down to the *user changable* parallax wallpaper. 
-
-Utilising Google's Cloud Platform's (GCP) 'text to speach' the app speaks for the child who has .... <br/> <br/>
-
-```
-Frameworks include:
-UIKit
-SwiftySound
-Alamofire
-AlamofireImage
-ReachabilitySwift
-Lightbox
-RealmSwift
-Firebase/Core
-FirebaseDatabase
-Firebase/Auth
-Firebase/Storage
-SCLAlertView
-JJFloatingActionButton
-Hover
-Kingfisher
-
-```
+**iVocab** was an application that was made as an aid for nonverbal children providing them with a way to communicate effectivly. 
 
 ---
 
@@ -124,6 +91,7 @@ Kingfisher
 
 <a href="https://github.com/garymansted/iVocab-V2_APP"><img src="/assets/iVocab_Image_12.png" width="429" height="298" title="iVocab-V2 - Vocal Assitive App"></a>
 
+**iVocab** is an application that was made as an aid for all nonverbal and speech challenged individuals providing them with a way to communicate effectivly. 
 
 ---
 
