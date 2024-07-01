@@ -32,7 +32,7 @@ Device
 ## Care Corp Communities - V1
 The *first version* of the CCCommunities application allowed community members to book the recreational facilities in their building and make appointments with their Building Manager. See below.
 
-<a href="[https://github.com/garymansted/CareCorpCommunities-V2_App](https://github.com/garymansted/MyFreebees_APP)"><img src="/assets/MyFreebees_Image.png" width="225" height="400" title="MyFreebees - Merchant Portal App"></a>
+<a href="https://github.com/garymansted/CareCorpCommunities-V1_App"><img src="/assets/CCC_Image_1.png" width="225" height="400" title="Care Corp Communities - Residents Help App"></a>
 
 
 <p align="left">
