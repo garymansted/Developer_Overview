@@ -5,7 +5,7 @@ Check out a small handful of applications that I have built during my time as an
 ## Care Corp Communities - V2
 
 
-<a href="https://github.com/garymansted/CareCorpCommunities-V2_App"><img src="/assets/CCC_Image_V2_1.png" alt="CCCommunities-V2_App"></a>
+<a href="https://github.com/garymansted/CareCorpCommunities-V2_App"><img src="/assets/CCC_Image_V2_1.png" width="225" height="400" title="Care Corp Communities - Residents Help App"></a>
 
 
 <p align="left">
