@@ -5,8 +5,7 @@ Check out a small handful of applications that I have built during my time as an
 ## Care Corp Communities - V2
 
 
-// https://github.com/garymansted/CareCorpCommunities-V2_App.git
-
+<a href="https://github.com/garymansted/CareCorpCommunities-V2_App"><img src="/assets/GitHubLogo_1.png" alt="GitHub Repository"></a>
 
 
 <p align="left">
