@@ -56,7 +56,7 @@ MUMR - Make Up My Room was built as a proof of concept IoT application to allow 
 
 ## CyberStudios
 
-<a href="https://github.com/garymansted/CyberStudios_APP"><img src="/assets/CyberStudios_App_Icon.png" width="240" height="240" title="CyberStudios - IoT Device Registry App"></a>
+<a href="https://github.com/garymansted/CyberStudios_APP"><img src="/assets/Cyberstudios_Image.png" width="240" height="240" title="CyberStudios - IoT Device Registry App"></a>
 
 
 **CyberStudios** was initally created for the registration and control of custom IoT devices. The IoT devices were capable of real-time, two-way data transmission via WiFi or celular connection. 
