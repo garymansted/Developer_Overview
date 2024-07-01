@@ -89,7 +89,7 @@ MUMR - Make Up My Room was built as a proof of concept IoT application to allow 
 
 ## iVocab V2
 
-<a href="https://github.com/garymansted/iVocab-V2_APP"><img src="/assets/iVocab_Image_12.png" width="429" height="298" title="iVocab-V2 - Vocal Assitive App"></a>
+<a href="https://github.com/garymansted/iVocab-V2_APP"><img src="/assets/iVocab-Image1.png" width="429" height="298" title="iVocab-V2 - Vocal Assitive App"></a>
 
 **iVocab** is an application that was made as an aid for all nonverbal and speech challenged individuals providing them with a way to communicate effectivly. 
 
