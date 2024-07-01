@@ -99,6 +99,10 @@ Kanna
 ---
 
 ## JuiceBox
+
+<a href="https://github.com/garymansted/JuiceBox_App"><img src="/assets/JuiceBox_Image_0.png" width="225" height="400" title="JuiceBox - Real Time Fuel Data App"></a>
+
+
 <p align="left">
     <img src="/assets/JuiceboxDemo.gif" width="225" height="451" title="Juicebox - NSW Fuel Finder App">
     <img src="/assets/JuiceBox_Image_0.png" width="225" height="400" title="Juicebox - NSW Fuel Finder App">
