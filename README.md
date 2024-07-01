@@ -272,6 +272,10 @@ Alamofire
 ---
 
 ## Brewski
+
+<a href="https://github.com/garymansted/Brewski_APP"><img src="/assets/Brewski_Image_1.png" width="225" height="400" title="Brewski - Beer and Brewery App"></a>
+
+
 <p align="left">
   <img src="/assets/BrewskiDemo.gif" width="225" height="407" title="Brewski - Beer & Brewery App">
   <img src="/assets/Brewski_Image_1.png" width="225" height="400" title="Brewski - Beer & Brewery App">
@@ -304,6 +308,9 @@ ParallaxHeader
 ---
 
 ## iVocab
+
+<a href="https://github.com/garymansted/iVocab-V1_APP"><img src="/assets/Brewski_Image_1.png" width="225" height="400" title="Brewski - Beer and Brewery App"></a>
+
 <p align="left">
     <img src="/assets/iVocabDemo.gif" width="450" height="322" title="iVocab - Vocal Assistance App">
     <img src="/assets/iVocab_Image_1.png" width="429" height="298" title="iVocab - Vocal Assistance App">
