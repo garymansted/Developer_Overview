@@ -247,7 +247,7 @@ Kanna
 
 ## Ping
 
-<a href="https://github.com/garymansted/Ping_APP"><img src="/assets/CyberStudios_App_Icon.png" width="240" height="240" title="Ping - Foodie Curated App"></a>
+<a href="https://github.com/garymansted/Ping_APP"><img src="/assets/Ping_V3_Image_6.png" width="320" height="400" title="Ping - Foodie Curated App"></a>
 
 
 <p align="left">
