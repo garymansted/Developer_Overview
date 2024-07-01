@@ -1,21 +1,17 @@
-# Developer Overview     ## *page under construction* ##
-Check out a small handful of applications that I have built during my time as an iOS Engineer.<br/>
+# Developer Overview     
+
+Allow me to introduce myself. My name is Gary Mansted, and I specialise in iOS development using SWIFT 5.x. Throughout my career journey, I have cultivated a reputation for being a rapid prototyping specialist, excelling in rapidly translating ideas into tangible, high-quality products.<br/>
+
+Explore the applications I've built in more detail by tapping on any image below.<br/>
 
 
 ## Care Corp Communities - V2
 
-
 <a href="https://github.com/garymansted/CareCorpCommunities-V2_APP"><img src="/assets/CCC_Image_V2_1.png" width="225" height="400" title="Care Corp Communities - Residents Help App"></a>
 
 **CareCorp Communities** is an Owners Corporation Business based in Melbourne, Australia who specialise in elite management services.<br/>
-The CareCorp Communities app conveys relevant and important information to its community members (residents). This, the *second version* also allows community members, along with potential new clients, the ability to directly contact the various persons who are responsible for all building related enquiries.<br/>
-The CCC app utilises the iOS auto layout feature, along with frame based layouts, to dynamically scale and constrain the UI for all iOS devices currently availble.<br/> 
 
-```
-Frameworks used in V2 include:
-UIKit
-Device
-```
+---
 
 ## Care Corp Communities - V1
 The *first version* of the CCCommunities application allowed community members to book the recreational facilities in their building and make appointments with their Building Manager. See below.
