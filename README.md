@@ -65,7 +65,7 @@ MUMR - Make Up My Room was built as a proof of concept IoT application to allow 
 
 ## Ping
 
-<a href="https://github.com/garymansted/Ping_APP"><img src="/assets/Ping_V3_Image_6.png" width="320" height="400" title="Ping - Foodie Curated App"></a>
+<a href="https://github.com/garymansted/Ping_APP"><img src="/assets/Ping_V3_Image_5" width="320" height="400" title="Ping - Foodie Curated App"></a>
 
 **Ping** Peruse curated maps from our favourite foodies by Vegan, Burgers, Rooftops. Get the latest in Speciality Coffee, cafe openings, new eateries.
 
