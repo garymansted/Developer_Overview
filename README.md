@@ -2,7 +2,7 @@
 
 My name is Gary Mansted, and I specialise in iOS development using SWIFT 5.x. Throughout my career journey, I have cultivated a reputation for being a rapid prototyping specialist, excelling in rapidly translating ideas into tangible, high-quality products.<br/>
 
-Explore the applications I've built in more detail by tapping on any image below.<br/>
+Explore some of the applications I've built in more detail by tapping on any image below.<br/>
 
 ---
 
