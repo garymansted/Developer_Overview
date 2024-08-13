@@ -108,3 +108,10 @@ MUMR - Make Up My Room was built as a proof of concept IoT application to allow 
 <a href="https://github.com/garymansted/MyFreebees_App"><img src="/assets/MyFreebees_Image.png" width="240" height="240" title="MyFreebees - Merchant Portal App"></a>
 
 **MyFreebees** Merchant Portal, Core Bluetooth,  TODO<br/>
+
+---
+
+## Other Projects
+
+The following are some other projects I have been involved in.
+**Coupod** Coupod<br/>
