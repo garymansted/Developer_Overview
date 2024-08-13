@@ -115,3 +115,4 @@ MUMR - Make Up My Room was built as a proof of concept IoT application to allow 
 
 The following are some other projects I have been involved in.<br/>
 **Coupod** Coupod was an augmented viewer application that allowed users to search for coupons. <br/>
+Once a coupon was collected the user could redeem it at the associated business via an IoT redeeming device. <br/>
