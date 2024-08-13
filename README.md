@@ -58,7 +58,7 @@ MUMR - Make Up My Room was built as a proof of concept IoT application to allow 
 
 <a href="https://github.com/garymansted/ParView_APP"><img src="/assets/ParViewLogo1.png" width="240" height="240" title="ParView - Australian Parliment Streaming App"></a>
 
-ParView was the first and only mobile app for streeming live video streams from the Australian Parliment House.  
+ParView was the first and only mobile app built to stream live video of the Australian Parliment House.  
 
 ---
 
