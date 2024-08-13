@@ -113,5 +113,5 @@ MUMR - Make Up My Room was built as a proof of concept IoT application to allow 
 
 ## Other Projects
 
-The following are some other projects I have been involved in.
-**Coupod** Coupod<br/>
+The following are some other projects I have been involved in.<br/>
+**Coupod** Coupod was an augmented viewer application that allowed users to search for coupons. <br/>
