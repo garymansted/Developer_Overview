@@ -1,126 +1,164 @@
-# Developer Overview   
+# Gary Mansted
 
-My name is Gary Mansted, and I specialise in iOS development using SWIFT 5.x. Throughout my career journey, I have cultivated a reputation for being a rapid prototyping specialist, excelling in rapidly translating ideas into tangible, high-quality products.<br/>
+## Senior Software Engineer (iOS)
 
-Explore some of the applications I've built in detail by tapping on any image below.<br/>
+### Building Apple-platform products that solve real-world problems.
 
----
+I'm a Senior Software Engineer specialising in Apple's ecosystem with over 10 years of experience designing, architecting and shipping native iOS applications.
 
-## Care Corp Communities - V2
+Throughout my career I've worked across startups, enterprise organisations and founder-led ventures, taking products from concept through architecture, development, App Store release and continuous improvement.
 
-<a href="https://github.com/garymansted/CareCorpCommunities-V2_APP"><img src="/assets/CCC_Image_V2_1.png" width="225" height="400" title="Care Corp Communities - Residents Help App"></a>
-
-**CareCorp Communities** is an Owners Corporation Business based in Melbourne, Australia who specialise in elite management services.<br/>
+I enjoy solving product problems just as much as technical ones and thrive in fast-paced environments where ownership, curiosity and rapid iteration are valued.
 
 ---
 
-## Care Corp Communities - V1
+# Featured Products
 
-<a href="https://github.com/garymansted/CareCorpCommunities-V1_APP"><img src="/assets/CCC_Image_1.png" width="170" height="360" title="Care Corp Communities - Residents Help App"></a>
+## iVocab
 
-The *first version* of the CCCommunities application allowed community members to book the recreational facilities in their building and make appointments with their Building Manager. 
+**AI-powered Augmentative & Alternative Communication Platform**
 
----
+Founder • Product Owner • Lead Software Engineer
 
-## Make Up My Room
+Created to help non-verbal individuals communicate more naturally through thoughtful product design and artificial intelligence.
 
-<a href="https://github.com/garymansted/MakeUpMyRoom_APP"><img src="/assets/MUMR_Image.png" width="240" height="240" title="MUMR - Make Up My Room Hotel App"></a>
+### Highlights
 
-MUMR - Make Up My Room was built as a proof of concept IoT application to allow hotel guests the ability to let staff know if they wanted a room makeup, room service or to be left alone - doing away with the token Do-Not-Disturb door hanger sign.
-
----
-
-## JuiceBox
-
-<a href="https://github.com/garymansted/JuiceBox_APP"><img src="/assets/JuiceBox_Image_0.png" width="225" height="400" title="JuiceBox - Real Time Fuel Data App"></a>
-
-**JuiceBox** was the first (2016) fuel price finder *real-time* application released in NSW Australia. 
-
----
-
-## Circles
-
-<a href="https://github.com/garymansted/Circles_APP"><img src="/assets/Circles_Image_2.png" width="169" height="365" title="Circles - Code Challenge App"></a>
-
-**Circles** was a small app written in Swift 4 for a coding challenge recently updated to Swift 5.<br/>
+- Native iOS & iPadOS application
+- Swift & UIKit
+- OpenAI integration
+- Firebase backend
+- RevenueCat subscriptions
+- Offline-first architecture
+- AI-assisted communication
+- Continuous product evolution
 
 ---
 
-## BlueSky
+## Freebees / MyFreebees
 
-<a href="https://github.com/garymansted/BlueSky_APP"><img src="/assets/BlueSky_Image_10.png" width="169" height="365" title="BlueSky - Code Challenge App"></a>
+**Augmented Reality Retail Platform**
 
-**BlueSky** was a small app initially build in Swift 4 for demonstrating my iOS native app building skills, ability to write clean and maintainable code along with testing out my attention to detail. *Updated to Swift 5*<br/>
+Designed and developed a technically sophisticated consumer and merchant platform combining augmented reality, Bluetooth Low Energy, geolocation, cloud infrastructure and connected hardware.
 
----
+The consumer application allowed users to discover, capture and redeem promotional content in augmented reality, while the companion merchant application managed campaigns, reporting, promotional assets and hardware deployment.
 
-## ParView
+### Technologies
 
-<a href="https://github.com/garymansted/ParView_APP"><img src="/assets/ParViewLogo1.png" width="240" height="240" title="ParView - Australian Parliment Streaming App"></a>
-
-ParView was the first and only mobile app built to stream live video of the Australian Parliment House.  
-
----
-
-## CyberStudios
-
-<a href="https://github.com/garymansted/CyberStudios_APP"><img src="/assets/Cyberstudios_Image.png" width="240" height="240" title="CyberStudios - IoT Device Registry App"></a>
-
-
-**CyberStudios** was initally created for the registration and control of custom IoT devices. The IoT devices were capable of real-time, two-way data transmission via WiFi or celular connection. 
+- Swift
+- UIKit
+- ARKit
+- Bluetooth Low Energy
+- Core Location
+- Firebase
+- REST APIs
+- In-App Purchases
+- Push Notifications
 
 ---
 
-## Ping
+## Curbsider
 
-<a href="https://github.com/garymansted/Ping_APP"><img src="/assets/Ping_V3_Image_5.png" width="320" height="400" title="Ping - Foodie Curated App"></a>
+**IoT Logistics Platform**
 
-**Ping** Peruse curated maps from our favourite foodies by Vegan, Burgers, Rooftops. Get the latest in Speciality Coffee, cafe openings, new eateries.
+Worked as the lead mobile engineer on an IoT platform combining embedded hardware, LoRa networking and native iOS software to modernise logistics workflows.
 
----
+### Technologies
 
-## Brewski
-
-<a href="https://github.com/garymansted/Brewski_APP"><img src="/assets/Brewski_Image_1.png" width="225" height="400" title="Brewski - Beer and Brewery App"></a>
-
-**Brewski** was an app written in SWIFT 5 that targeting the latest iOS version -> 13.2. It was built for a coding task.br/>
-
----
-
-## iVocab V1
-
-<a href="https://github.com/garymansted/iVocab-V1_APP"><img src="/assets/iVocab_Image_12.png" width="429" height="298" title="iVocab-V1 - Vocal Assitive App"></a>
-
-**iVocab** was an application that was made as an aid for nonverbal children providing them with a way to communicate effectivly. 
+- Swift
+- UIKit
+- Arduino
+- Raspberry Pi
+- BLE
+- LoRa
+- Wi-Fi
 
 ---
 
-## iVocab V2
+## Care Corp Communities
 
-<a href="https://github.com/garymansted/iVocab-V2_APP"><img src="/assets/iVocab-V2_image1.png" width="400" height="298" title="iVocab-V2 - Vocal Assitive App"></a>
+**Community Communication Platform**
 
-**iVocab** is an application that was made as an aid for all nonverbal and speech challenged individuals providing them with a way to communicate effectivly. 
-
----
-
-## Freebees
-
-<a href="https://github.com/garymansted/Freebees_APP"><img src="/assets/Freebees_Image_1.png" width="240" height="240" title="Freebees - Augmented Reality Promotions App"></a>
-
-**Freebees** Augmented reality, Core Bluetooth, Promotions, TODO<br/>
+Developed software helping retirement communities improve resident communication, facility management and engagement through native iOS applications.
 
 ---
 
-## MyFreebees
+# Engineering Toolkit
 
-<a href="https://github.com/garymansted/MyFreebees_App"><img src="/assets/MyFreebees_Image.png" width="240" height="240" title="MyFreebees - Merchant Portal App"></a>
+## Apple
 
-**MyFreebees** Merchant Portal, Core Bluetooth,  TODO<br/>
+- Swift
+- UIKit
+- Foundation
+- Core Animation
+- Core Location
+- MapKit
+- StoreKit
+- Speech Framework
+- Auto Layout
+
+## Cloud
+
+- Firebase
+- REST APIs
+- JSON
+- RevenueCat
+
+## Artificial Intelligence
+
+- OpenAI APIs
+- OpenAI Codex
+- ChatGPT
+- Prompt Engineering
+- LLM Integration
+
+## Product Engineering
+
+- Software Architecture
+- Product Strategy
+- UX Collaboration
+- Agile Delivery
+- CI/CD
+- TestFlight
+- App Store Connect
+
+## IoT
+
+- Arduino
+- Raspberry Pi
+- BLE
+- LoRa
+- Wi-Fi
+- Apple TV
+- Embedded Systems
 
 ---
 
-## Other Projects
+# Engineering Philosophy
 
-The following are some other projects I have been involved in.<br/>
-**Coupod** Coupod was an augmented viewer application that allowed users to search for coupons. <br/>
-Once a coupon was collected the user could redeem it at the associated business via an IoT redeeming device. <br/>
+The best products are built by engineers who understand people as deeply as they understand technology.
+
+I enjoy working closely with customers, designers and stakeholders to ensure every technical decision contributes to a better user experience.
+
+Whether building AI-powered accessibility software, IoT platforms or commercial mobile applications, my focus remains the same:
+
+**Create products that solve meaningful problems through thoughtful engineering.**
+
+---
+
+# Currently Exploring
+
+- AI-powered product development
+- Accessibility
+- Native Apple technologies
+- Product architecture
+- Human-centred software
+- Modern AI engineering workflows
+
+---
+
+# Let's Connect
+
+📧 **garymansted@gmail.com**
+
+I'm always interested in opportunities to build products with talented people solving meaningful problems.
