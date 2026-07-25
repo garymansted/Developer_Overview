@@ -4,9 +4,9 @@
 
 ### Building Apple-platform products that solve real-world problems.
 
-I'm a Senior Software Engineer specialising in Apple's ecosystem with over 10 years of experience designing, architecting and shipping native iOS applications.
+I'm a Senior Software Engineer specialising in Apple's ecosystem with over 10 years of experience building products across startups, enterprise organisations and founder-led ventures.
 
-Throughout my career I've worked across startups, enterprise organisations and founder-led ventures, taking products from concept through architecture, development, App Store release and continuous improvement.
+Throughout my career I've enjoyed taking products from concept through architecture, engineering, App Store release and continuous product evolution.
 
 I enjoy solving product problems just as much as technical ones and thrive in fast-paced environments where ownership, curiosity and rapid iteration are valued.
 
@@ -14,123 +14,98 @@ I enjoy solving product problems just as much as technical ones and thrive in fa
 
 # Featured Products
 
-## iVocab
+## 🟦 iVocab
 
-**AI-powered Augmentative & Alternative Communication Platform**
+<a href="https://github.com/garymansted/iVocab-V2_APP">
+<img src="/assets/iVocab-V2_image1.png" width="900">
+</a>
 
-Founder • Product Owner • Lead Software Engineer
+**Founder • Product Owner • Lead Software Engineer**
 
-Created to help non-verbal individuals communicate more naturally through thoughtful product design and artificial intelligence.
+AI-powered Augmentative & Alternative Communication platform designed to help non-verbal individuals communicate more naturally.
 
 ### Highlights
 
-- Native iOS & iPadOS application
+- Native iOS & iPadOS
 - Swift & UIKit
 - OpenAI integration
-- Firebase backend
-- RevenueCat subscriptions
+- Firebase
+- RevenueCat
 - Offline-first architecture
-- AI-assisted communication
 - Continuous product evolution
 
 ---
 
-## Freebees / MyFreebees
+## 🟧 Freebees / MyFreebees
 
-**Augmented Reality Retail Platform**
+<a href="https://github.com/garymansted/Freebees_APP">
+<img src="/assets/Freebees_Image_1.png" width="700">
+</a>
 
-Designed and developed a technically sophisticated consumer and merchant platform combining augmented reality, Bluetooth Low Energy, geolocation, cloud infrastructure and connected hardware.
+Designed and developed a technically sophisticated consumer and merchant retail platform combining:
 
-The consumer application allowed users to discover, capture and redeem promotional content in augmented reality, while the companion merchant application managed campaigns, reporting, promotional assets and hardware deployment.
-
-### Technologies
-
-- Swift
-- UIKit
-- ARKit
+- Augmented Reality
 - Bluetooth Low Energy
-- Core Location
-- Firebase
-- REST APIs
+- Geolocation
+- Cloud infrastructure
 - In-App Purchases
 - Push Notifications
+- Real-time synchronisation
+- Connected redemption hardware
+
+The companion merchant application enabled campaign deployment, reporting, hardware management and customer engagement.
 
 ---
 
-## Curbsider
+## 🟩 Curbsider
 
-**IoT Logistics Platform**
+*(Add screenshot once available.)*
 
-Worked as the lead mobile engineer on an IoT platform combining embedded hardware, LoRa networking and native iOS software to modernise logistics workflows.
+An IoT logistics platform combining embedded hardware, LoRa networking and native iOS software to modernise logistics workflows.
 
-### Technologies
+**Technologies**
 
-- Swift
-- UIKit
-- Arduino
-- Raspberry Pi
-- BLE
-- LoRa
-- Wi-Fi
+Swift • UIKit • LoRa • Arduino • Raspberry Pi • BLE
 
 ---
 
-## Care Corp Communities
+## 🟪 Care Corp Communities
 
-**Community Communication Platform**
+<a href="https://github.com/garymansted/CareCorpCommunities-V2_APP">
+<img src="/assets/CCC_Image_V2_1.png" width="250">
+</a>
 
-Developed software helping retirement communities improve resident communication, facility management and engagement through native iOS applications.
+Resident communication platform built for retirement communities, simplifying communication, facility bookings and resident engagement.
+
+---
+
+## 🟨 Ping Melbourne
+
+<a href="https://github.com/garymansted/Ping_APP">
+<img src="/assets/Ping_V3_Image_5.png" width="420">
+</a>
+
+Location-aware discovery platform helping users explore curated destinations through beautifully designed native iOS experiences.
 
 ---
 
 # Engineering Toolkit
 
-## Apple
+### Apple
 
-- Swift
-- UIKit
-- Foundation
-- Core Animation
-- Core Location
-- MapKit
-- StoreKit
-- Speech Framework
-- Auto Layout
+Swift • UIKit • Core Animation • Core Location • MapKit • StoreKit • Auto Layout
 
-## Cloud
+### Cloud
 
-- Firebase
-- REST APIs
-- JSON
-- RevenueCat
+Firebase • REST APIs • RevenueCat • JSON
 
-## Artificial Intelligence
+### Artificial Intelligence
 
-- OpenAI APIs
-- OpenAI Codex
-- ChatGPT
-- Prompt Engineering
-- LLM Integration
+OpenAI APIs • OpenAI Codex • ChatGPT • Prompt Engineering
 
-## Product Engineering
+### IoT
 
-- Software Architecture
-- Product Strategy
-- UX Collaboration
-- Agile Delivery
-- CI/CD
-- TestFlight
-- App Store Connect
-
-## IoT
-
-- Arduino
-- Raspberry Pi
-- BLE
-- LoRa
-- Wi-Fi
-- Apple TV
-- Embedded Systems
+Arduino • Raspberry Pi • BLE • LoRa • Wi-Fi • Apple TV
 
 ---
 
@@ -142,22 +117,27 @@ I enjoy working closely with customers, designers and stakeholders to ensure eve
 
 Whether building AI-powered accessibility software, IoT platforms or commercial mobile applications, my focus remains the same:
 
-**Create products that solve meaningful problems through thoughtful engineering.**
+**Build products that make a genuine difference.**
 
 ---
 
-# Currently Exploring
+# Other Projects
 
-- AI-powered product development
-- Accessibility
-- Native Apple technologies
-- Product architecture
-- Human-centred software
-- Modern AI engineering workflows
+Additional repositories include:
+
+- CyberStudios
+- BlueSky
+- JuiceBox
+- Make Up My Room
+- ParView
+- Brewski
+- Circles
+
+These projects span IoT, weather, hospitality, streaming media, fuel pricing, proof-of-concept applications and technical coding challenges.
 
 ---
 
-# Let's Connect
+## Let's Connect
 
 📧 **garymansted@gmail.com**
 
