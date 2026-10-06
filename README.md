@@ -59,8 +59,6 @@ The companion merchant application enabled campaign deployment, reporting, hardw
 
 ## 🟩 Curbsider
 
-*(Add screenshot once available.)*
-
 An IoT logistics platform combining embedded hardware, LoRa networking and native iOS software to modernise logistics workflows.
 
 **Technologies**
